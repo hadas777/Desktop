@@ -7,20 +7,265 @@
     direction: rtl;    
 }
 
-.tafrit{
+.top{
     position: absolute;
     top:300px;
-    right:  500px;
-    width: 1500%;
+    right:  0;
+    left: 35;
+    width: 95%;
     height: 5%;
     direction: rtl;    
+    
 }
-.women{
+
+.down{
+    position: absolute;
+    top:1000px;
+    right:  0;
+    left: 35;
+    width: 95%;
+    height: 15%;
+    direction: rtl;    
+}
+
+.photow{
+    position: absolute;
+    top:500px;
+    right:  0;
+    left: 940;
+    width: 20%;
+    height: 40%;
+    direction: rtl;    
+}
+
+.photom{
+    position: absolute;
+    top:500px;
+    right:  0;
+    left: 615;
+    width: 20%;
+    height: 40%;
+    direction: rtl;    
+}
+
+.photoc{
+    position: absolute;
+    top:495px;
+    right:  100;
+    left: 280;
+    width: 20%;
+    height: 41%;
+    direction: rtl;    
+}
+
+.t1{
+    position: absolute;
+    top:850px;
+    right:  0;
+    left: 840;
+    width: 20%;
+    height: 40%;
+    direction: rtl;    
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 40px;
+}
+
+.t2{
+    position: absolute;
+    top:850px;
+    right:  0;
+    left: 500;
+    width: 20%;
+    height: 40%;
+    direction: rtl;  
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 40px;
+}
+
+.t3{
+    position: absolute;
+    top:850px;
+    right:  0;
+    right:  100;
+    left: 170;
+    width: 20%;
+    height: 41%;
+    direction: rtl;    
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 40px;
+}
+
+
+
+.title{
+    position: absolute;
+    top:400px;
+    right:  0;
+    left: 620;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 40px;
+}
+
+.abc{
+    position: absolute;
+    top:500px;
+    right:  0;
+    left: 520;
+    width: 40%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 20px;
+}
+
+.titleab{
+    position: absolute;
+    top:355px;
+    right:  0;
+    left: 620;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 40px;
+    
+}
+
+
+.name{
+    position: absolute;
+    top:720px;
+    right:  0;
+    left: 620;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 20px;
+}
+
+.boxname{
+    position: absolute;
+    top:720px;
+    right:  0;
+    left: 620;
+    
+}
+
+
+.mail{
+    position: absolute;
+    top:750px;
+    right:  0;
+    left: 620;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 20px;
+}
+
+.boxmail{
+    position: absolute;
+    top:750px;
+    right:  0;
+    left: 620;
+    
+}
+
+.phone{
+    position: absolute;
+    top:780px;
+    right:  0;
+    left: 620;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 20px;
+}
+
+.boxphone{
+    position: absolute;
+    top:780px;
+    right:  0;
+    left: 620;
+    
+}
+
+.text{
+    position: absolute;
+    top:810px;
+    right:  0;
+    left: 620;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 20px;
+}
+
+.boxtext{
+    position: absolute;
+    top:810px;
+    right:  0;
+    left: 520;
+    width: 300;
+    height: 150;
+    
+}
+.send{
+    position: absolute;
+    top:930px;
+    right:  0;
+    left: 450;
+    
+}
+.textsend{
+    position: absolute;
+    top:810px;
+    right:  0;
+    left: 900;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
    
-    position: absolute;
-    top:300px;
-    right:  500px;
-    width: 1500%;
-    height: 5%;
-    direction: rtl;    
+    font-size: 22px;
+    
 }
+.pass{
+    position: absolute;
+    top:750px;
+    right:  0;
+    left: 620;
+    width: 20%;
+    height: 40%;
+    direction: rtl;
+    font-family: Impact, Charcoal, sans-serif;  
+    font-size: 20px;
+}
+
+.boxpass{
+    position: absolute;
+    top:750px;
+    right:  0;
+    left: 620;
+    
+} 
+
+.in{
+    position: absolute;
+    top:750px;
+    right:  0;
+    left: 530;
+    
+} 
+.nopass{
+    position: absolute;
+    top:780px;
+    right:  0;
+    left: 650;
+    color: brown;
